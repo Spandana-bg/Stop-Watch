@@ -1,0 +1,34 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("clock.jpg");                                                                                                                                                                                                                                                                                     dt7ul;
+    background-repeat: no-repeat;
+   background-size: 99.9% 780px; 
+}
+#stopwatch{
+    margin-left: 10%;
+    align-items: center;
+    margin-top: 15%;
+    font-size:1000%;
+   color:yellow;
+} 
+ .buttons{
+    
+    border-color:2px solid black;
+    border-radius: 8px; 
+    padding: 30px;
+    margin-left: 13%;
+    font-size: 50px;
+} 
+
+button{
+    width: 10%;
+    height: 40px;
+    border-radius: 10px;
+    border-color: yellow;
+    color: green;
+    font-weight: bolder;
+}
+
